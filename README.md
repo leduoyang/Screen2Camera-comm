@@ -2,6 +2,7 @@
 Implement screen 2 camera communication
 
 ## Overview
+![alt text](https://github.com/leduoyang/Screen2Camera-comm/blob/master/img/pattern.png)
 ```
 Frame : Spatial-temporal complementary frames design as inframe++
 Locator : Follow the standard of QR code for finding out the coordinates of the block
@@ -27,4 +28,6 @@ Data Block : STCF design with different patterns
 7.Decode according to the patterns
 ```
 
-
+## Example - Pattern on video frame
+![alt text](https://github.com/leduoyang/Screen2Camera-comm/blob/master/img/pattern_on_video1.png)
+![alt text](https://github.com/leduoyang/Screen2Camera-comm/blob/master/img/pattern_on_video2.png)
